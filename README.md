@@ -3,6 +3,6 @@ project portfolio assignment
 
 
 
-#__About Me!__
+# __About Me!__
 
-*My name is Alexis, I'm a 2nd year Computer Engineering student at UCR
+* My name is Alexis, I'm a 2nd year Computer Engineering student at UCR
