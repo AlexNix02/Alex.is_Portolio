@@ -14,6 +14,8 @@ This is my project portfolio assignment for Ohio's States Swift course - 7/5/202
 
 * My previous coding experience includes over a year of C++, as well as some Python
 
+* I do umpiring and crochet in my free time
+
 ##
 
 ## __Project #1: Calculator Interface__
