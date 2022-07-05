@@ -16,4 +16,10 @@ project portfolio assignment
 
 This project consisted of building the User Interface of a recognizable IOS Apple Calculator using what I'd learned from previous practice with IBActions and IBOutlets.
 
-![]()
+![](https://github.com/AlexNix02/Alex.is_Portolio/blob/main/images/Screen%20Shot%202022-07-02%20at%2011.52.42%20PM.png)
+
+* This image shows 
+
+* Challenges:
+** bruh
+** yee
