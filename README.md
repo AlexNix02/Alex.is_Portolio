@@ -33,7 +33,7 @@ This project consisted of building the User Interface of a recognizable IOS Appl
 * Here, it can also be seen, but when the 11 is rotated to the right. This step took some formating reconfiguration, but worked out fine overall. 
 
 
-![](/images/Screen%20Shot%202022-07-03%20at%2012.00.32%20AM.PNG)
+![](/images/Screen%20Shot%202022-07-03%20at%2012.00.32%20AM.png)
 
 
 * Here is the overall, with some code(right), as well as how the app looks in dark mode.
