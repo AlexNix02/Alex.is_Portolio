@@ -5,7 +5,7 @@ This is my project portfolio assignment for Ohio's States Swift course - 7/5/202
 
 ##
 
-### __About Me!__
+## __About Me!__
 
 
 * My name is Alexis, I'm a 2nd year Computer Engineering student at UCR
@@ -16,7 +16,7 @@ This is my project portfolio assignment for Ohio's States Swift course - 7/5/202
 
 ##
 
-### __Project #1: Calculator Interface__
+## __Project #1: Calculator Interface__
 
 
 This project consisted of building the User Interface of a recognizable IOS Apple Calculator using what I'd learned from previous practice with IBActions and IBOutlets of Swift in x-code.
@@ -39,4 +39,4 @@ This project consisted of building the User Interface of a recognizable IOS Appl
         
 ![](https://github.com/AlexNix02/Alex.is_Portolio/blob/main/images/Screen%20Shot%202022-07-02%20at%2011.55.42%20PM.png)
 
-###
+##
