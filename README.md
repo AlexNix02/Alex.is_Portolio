@@ -24,7 +24,7 @@ This is my project portfolio assignment for Ohio's States Swift course - 7/5/202
 This project consisted of building the User Interface of a recognizable IOS Apple Calculator using what I'd learned from previous practice with IBActions and IBOutlets of Swift in x-code.
 
 
-![](https://github.com/AlexNix02/Alex.is_Portolio/blob/main/images/sideslide1.png)
+![](/images/sideslide11.png)
 
 
 * This image shows how the interface looks on a functional Iphone 11 Pro Max(left) and the seperated layers that lead to the final product(right).
@@ -33,12 +33,12 @@ This project consisted of building the User Interface of a recognizable IOS Appl
 * Here, it can also be seen, but when the 11 is rotated to the right. This step took some formating reconfiguration, but worked out fine overall. 
 
 
-![](https://github.com/AlexNix02/Alex.is_Portolio/blob/main/images/sideslide11.png)
+![](/images/sideslide2.png )
 
 
 * Here is the overall, with some code(right), as well as how the app looks in dark mode.
         
         
-![](https://github.com/AlexNix02/Alex.is_Portolio/blob/main/images/sideslide2.png)
+![](/images/sideslide1.png)
 
 
