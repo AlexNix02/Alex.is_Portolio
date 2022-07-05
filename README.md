@@ -39,6 +39,6 @@ This project consisted of building the User Interface of a recognizable IOS Appl
 * Here is the overall, with some code(right), as well as how the app looks in dark mode.
         
         
-![](/images/Screen%20Shot%202022-07-02%20at%2011.55.42%20PM.png)
+![](/Screen%20Shot%202022-07-02%20at%2011.55.42%20PM.png)
 
 
