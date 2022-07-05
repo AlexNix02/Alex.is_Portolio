@@ -3,7 +3,7 @@
 
 This is my project portfolio assignment for Ohio's States Swift course - 7/5/2022
 
-##
+
 
 ## __About Me!__
 
@@ -16,7 +16,7 @@ This is my project portfolio assignment for Ohio's States Swift course - 7/5/202
 
 * I do umpiring and crochet in my free time
 
-##
+
 
 ## __Project #1: Calculator Interface__
 
@@ -24,7 +24,7 @@ This is my project portfolio assignment for Ohio's States Swift course - 7/5/202
 This project consisted of building the User Interface of a recognizable IOS Apple Calculator using what I'd learned from previous practice with IBActions and IBOutlets of Swift in x-code.
 
 
-![](https://github.com/AlexNix02/Alex.is_Portolio/blob/main/images/Screen%20Shot%202022-07-02%20at%2011.52.42%20PM.png)
+![](/images/Screen%20Shot%202022-07-02%20at%2011.52.42%20PM.png)
 
 
 * This image shows how the interface looks on a functional Iphone 11 Pro Max(left) and the seperated layers that lead to the final product(right).
@@ -33,12 +33,12 @@ This project consisted of building the User Interface of a recognizable IOS Appl
 * Here, it can also be seen, but when the 11 is rotated to the right. This step took some formating reconfiguration, but worked out fine overall. 
 
 
-![](https://github.com/AlexNix02/Alex.is_Portolio/blob/main/images/Screen%20Shot%202022-07-03%20at%2012.00.32%20AM.png)
+![](/images/Screen%20Shot%202022-07-03%20at%2012.00.32%20AM.png)
 
 
 * Here is the overall, with some code(right), as well as how the app looks in dark mode.
         
         
-![](https://github.com/AlexNix02/Alex.is_Portolio/blob/main/images/Screen%20Shot%202022-07-02%20at%2011.55.42%20PM.png)
+![](/images/Screen%20Shot%202022-07-02%20at%2011.55.42%20PM.png)
 
-##
+
